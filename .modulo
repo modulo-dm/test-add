@@ -1,4 +1,5 @@
 {
-  "modulesPath" : "..\/",
-  "gitURL" : "git@github.com:modulo-dm\/test-add.git"
+  "modulesPath" : "modules",
+  "dependencies" : [
+  ]
 }

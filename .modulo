@@ -1,5 +1,14 @@
 {
   "modulesPath" : "modules",
   "dependencies" : [
-  ]
+    {
+      "repositoryURL" : "git@github.com:modulo-dm\/test-init.git",
+      "checkout" : "master"
+    },
+    {
+      "repositoryURL" : "git@github.com:modulo-dm\/test-dep1.git",
+      "checkout" : "master"
+    }
+  ],
+  "name" : "test-add"
 }

@@ -7,7 +7,7 @@
     },
     {
       "repositoryURL" : "git@github.com:modulo-dm\/test-dep1.git",
-      "checkout" : "master"
+      "checkout" : "branch:origin/master"
     }
   ],
   "name" : "test-add"

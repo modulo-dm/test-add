@@ -3,11 +3,11 @@
   "dependencies" : [
     {
       "repositoryURL" : "git@github.com:modulo-dm\/test-init.git",
-      "checkout" : "master"
+      "version" : "1.0.0"
     },
     {
       "repositoryURL" : "git@github.com:modulo-dm\/test-dep1.git",
-      "checkout" : "branch:origin/master"
+      "version" : "1.0.0"
     }
   ],
   "name" : "test-add"
